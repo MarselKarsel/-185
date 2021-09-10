@@ -4,6 +4,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
+// добавляем 
 
 using namespace cv;
 using namespace std;
