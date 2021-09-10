@@ -24,6 +24,16 @@ int main(int argc, char** argv)
 			
 			imshow("Hello World", img);
 
+			//
+			setlocale(LC_ALL, "Russian");
+			char filename[80]; // read.jpg// string
+			cout <<"Введите имя файла, в который хотитие внести изменения, и нажмите Enter"<<end;
+			cin.getline(filename,80);
+			cout<<"Открыт файл";
+			cout <<filename<<end;
+	
+			
+	
 			Mat imgt = imread("read.jpg", 1);
 			imshow("Load", imgt);
 			waitKey(0);
