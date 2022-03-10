@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6LNO8An0r21bjNAm0s8R7wZ8nnQ1O7SVxJu/xsYk0nAK8FKuJOgbWdJ+Pl9acZNlVaJSMuMQ8iJdZl/6NCJGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlados\\Desktop\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlados\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vlados\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
